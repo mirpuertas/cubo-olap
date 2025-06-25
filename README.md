@@ -1,6 +1,7 @@
 # 🧊 Cubo OLAP en Java
 
 Este proyecto implementa desde cero un **cubo OLAP** en Java como trabajo final de la materia **Algoritmos I** (1.º Cuatrimestre 2024). 
+
 El sistema permite almacenar datos multidimensionales, aplicar medidas agregadas, y consultar resultados por combinaciones de dimensiones.
 
 ## Funcionalidades
