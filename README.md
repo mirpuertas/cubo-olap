@@ -54,5 +54,5 @@ El sistema cargará los datasets y mostrará resultados de agregación en consol
 
 - Mateo Panico (coautor en la etapa inicial del proyecto)
 - Miguel Ignacio Rodríguez Puertas — mantenimiento actual y evolución del código  
- [GitHub](https://github.com/mirpuertas)
+ [@mirpuertas](https://github.com/mirpuertas)
 
